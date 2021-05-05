@@ -2,6 +2,8 @@
 Ever wish you had an inefficient but somewhat legible collection of machine
 learning algorithms implemented exclusively in NumPy? No?
 
+This is a change!
+
 ## Installation
 
 ### For rapid experimentation
