@@ -2,7 +2,7 @@
 Ever wish you had an inefficient but somewhat legible collection of machine
 learning algorithms implemented exclusively in NumPy? No?
 
-Here I was able to edit the readme markdown file and psh to github then edit again and pull. VIM rules supreme.
+Here I was able to edit the readme markdown file and psh to github then edit again and pull. VIM rules.
 
 ## Installation
 
